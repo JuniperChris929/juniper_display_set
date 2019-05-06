@@ -6,7 +6,7 @@ to configure a Juniper device
 
 Changelog 06.05.2019
 -----
-Migrated Script to python3
+Migrated Script to python3 (junos-converter-30.py)
 
 
 
