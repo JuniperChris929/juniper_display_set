@@ -1,0 +1,1 @@
+"C:\Users\Christian Scholz\AppData\Local\Programs\Python\Python37-32\python.exe" "C:\Users\Christian Scholz\Desktop\Neuer Ordner\junos-converter-30.py" vsrx.txt > vsrx-set.txt
